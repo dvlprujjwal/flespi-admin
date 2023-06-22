@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "vehicle": "Truck 1",
+    "driver": "Raja",
+    "deliveryDate": "2022-01-01",
+    "deliveryTime": "12:00 PM",
+    "deliveryStatus": "Delivered",
+    "deliveryLocation": "New York, NY"
+  },
+  {
+    "id": 2,
+    "vehicle": "Truck 2",
+    "driver": "Vikash",
+    "deliveryDate": "2022-01-02",
+    "deliveryTime": "1:00 PM",
+    "deliveryStatus": "Delivered",
+    "deliveryLocation": "Los Angeles, CA"
+  },
+  {
+    "id": 3,
+    "vehicle": "Truck 3",
+    "driver": "Ranjan",
+    "deliveryDate": "2022-01-03",
+    "deliveryTime": "2:00 PM",
+    "deliveryStatus": "In Transit",
+    "deliveryLocation": "Chicago, IL"
+  },
+  {
+    "id": 4,
+    "vehicle": "Truck 4",
+    "driver": "Tahir",
+    "deliveryDate": "2022-01-01",
+    "deliveryTime": "12:00 PM",
+    "deliveryStatus": "Delivered",
+    "deliveryLocation": "New York, NY"
+  },
+  {
+    "id": 5,
+    "vehicle": "Truck 5",
+    "driver": "Roshan",
+    "deliveryDate": "2022-01-02",
+    "deliveryTime": "1:00 PM",
+    "deliveryStatus": "Delivered",
+    "deliveryLocation": "Los Angeles, CA"
+  },
+  {
+    "id": 6,
+    "vehicle": "Truck 6",
+    "driver": "Samar",
+    "deliveryDate": "2022-01-03",
+    "deliveryTime": "2:00 PM",
+    "deliveryStatus": "In Transit",
+    "deliveryLocation": "Chicago, IL"
+  }
+]

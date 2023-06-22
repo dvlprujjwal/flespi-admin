@@ -1,0 +1,50 @@
+[
+  {
+    "equipmentId": "E01",
+    "machineRuntime": "120 hours",
+    "machineDowntime": "10 hours",
+    "machineStatus": "Operational",
+    "powerSupplyVoltage": "220V",
+    "machineTemperature": "35C",
+    "machineUtilization": "92%",
+    "avgTimeToRepair": "4 hours",
+    "avgTimeBetweenFailure": "40 hours",
+    "commSignalStrength": "80%",
+    "nodesBatteryLevel": "50%",
+    "uplinkMessageCount": 500,
+    "downlinkMessageCount": 300,
+    "fuelConsumption": "10 liters"
+  },
+  {
+    "equipmentId": "E02",
+    "machineRuntime": "96 hours",
+    "machineDowntime": "14 hours",
+    "machineStatus": "Under Repair",
+    "powerSupplyVoltage": "220V",
+    "machineTemperature": "30C",
+    "machineUtilization": "85%",
+    "avgTimeToRepair": "8 hours",
+    "avgTimeBetweenFailure": "60 hours",
+    "commSignalStrength": "70%",
+    "nodesBatteryLevel": "40%",
+    "uplinkMessageCount": 400,
+    "downlinkMessageCount": 250,
+    "fuelConsumption": "8 liters"
+  },
+  {
+    "equipmentId": "E03",
+    "machineRuntime": "144 hours",
+    "machineDowntime": "6 hours",
+    "machineStatus": "Operational",
+    "powerSupplyVoltage": "240V",
+    "machineTemperature": "40C",
+    "machineUtilization": "98%",
+    "avgTimeToRepair": "3 hours",
+    "avgTimeBetweenFailure": "30 hours",
+    "commSignalStrength": "90%",
+    "nodesBatteryLevel": "60%",
+    "uplinkMessageCount": 600,
+    "downlinkMessageCount": 400,
+    "fuelConsumption": "12 liters"
+  }
+]

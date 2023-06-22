@@ -1,0 +1,8 @@
+[
+  { "vehicleId": "ABC123", "date": "2023-03-26", "speed": "80 km/h", "location": "Mumbai" },
+  { "vehicleId": "DEF456", "date": "2023-03-26", "speed": "60 km/h", "location": "Delhi" },
+  { "vehicleId": "GHI789", "date": "2023-03-27", "speed": "70 km/h", "location": "Bangalore" },
+  { "vehicleId": "ABC123", "date": "2023-03-26", "speed": "80 km/h", "location": "Mumbai" },
+  { "vehicleId": "DEF456", "date": "2023-03-26", "speed": "60 km/h", "location": "Delhi" },
+  { "vehicleId": "GHI789", "date": "2023-03-27", "speed": "70 km/h", "location": "Bangalore" }
+]

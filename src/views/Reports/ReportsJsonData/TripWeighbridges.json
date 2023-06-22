@@ -1,0 +1,68 @@
+[
+  {
+    "vehicleId": "ABC123",
+    "tripId": "001",
+    "date": "2023-03-26",
+    "timeIn": "09:15:00",
+    "timeOut": "09:30:00",
+    "grossWeight": "3000 kg",
+    "tareWeight": "2500 kg",
+    "netWeight": "500 kg",
+    "operator": "John Doe"
+  },
+  {
+    "vehicleId": "DEF456",
+    "tripId": "002",
+    "date": "2023-03-26",
+    "timeIn": "10:00:00",
+    "timeOut": "10:15:00",
+    "grossWeight": "4000 kg",
+    "tareWeight": "3500 kg",
+    "netWeight": "500 kg",
+    "operator": "Jane Smith"
+  },
+  {
+    "vehicleId": "GHI789",
+    "tripId": "003",
+    "date": "2023-03-27",
+    "timeIn": "08:45:00",
+    "timeOut": "09:00:00",
+    "grossWeight": "2500 kg",
+    "tareWeight": "2000 kg",
+    "netWeight": "500 kg",
+    "operator": "John Doe"
+  },
+  {
+    "vehicleId": "ABC123",
+    "tripId": "001",
+    "date": "2023-03-26",
+    "timeIn": "09:15:00",
+    "timeOut": "09:30:00",
+    "grossWeight": "3000 kg",
+    "tareWeight": "2500 kg",
+    "netWeight": "500 kg",
+    "operator": "John Doe"
+  },
+  {
+    "vehicleId": "DEF456",
+    "tripId": "002",
+    "date": "2023-03-26",
+    "timeIn": "10:00:00",
+    "timeOut": "10:15:00",
+    "grossWeight": "4000 kg",
+    "tareWeight": "3500 kg",
+    "netWeight": "500 kg",
+    "operator": "Jane Smith"
+  },
+  {
+    "vehicleId": "GHI789",
+    "tripId": "003",
+    "date": "2023-03-27",
+    "timeIn": "08:45:00",
+    "timeOut": "09:00:00",
+    "grossWeight": "2500 kg",
+    "tareWeight": "2000 kg",
+    "netWeight": "500 kg",
+    "operator": "John Doe"
+  }
+]

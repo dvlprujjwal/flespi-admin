@@ -1,0 +1,93 @@
+[
+  {
+    "vehicleNo": "DL96K9209",
+    "speed": 0,
+    "reportingTime": "4/21/2017 12:39",
+    "deviceState": "S",
+    "signals": 1795,
+    "maxSpeed": 85,
+    "runningTime": "4:35:57",
+    "stoppingTime": "7:01:20",
+    "distanceMoved": "179.405 Km",
+    "startTime": "4/21/2017 0:01",
+    "startlocation": "Bengaluru - Mangaluru Highway, Madanayakahalli, Bengaluru, Karnataka 562123, India"
+  },
+  {
+    "vehicleNo": "DL96K9812",
+    "speed": 0,
+    "reportingTime": "4/21/2017 12:43",
+    "deviceState": "S",
+    "signals": 1178,
+    "maxSpeed": 52,
+    "runningTime": "2:45:25",
+    "stoppingTime": "9:14:41",
+    "distanceMoved": "90.417 Km",
+    "startTime": "4/21/2017 0:01",
+    "startlocation": "NH30, Ghunwara, Madhya Pradesh 485773, India"
+  },
+  {
+    "vehicleNo": "DL96K9209",
+    "speed": 0,
+    "reportingTime": "4/21/2017 12:39",
+    "deviceState": "S",
+    "signals": 1795,
+    "maxSpeed": 85,
+    "runningTime": "4:35:57",
+    "stoppingTime": "7:01:20",
+    "distanceMoved": "179.405 Km",
+    "startTime": "4/21/2017 0:01",
+    "startlocation": "Bengaluru - Mangaluru Highway, Madanayakahalli, Bengaluru, Karnataka 562123, India"
+  },
+  {
+    "vehicleNo": "KA02J8496",
+    "speed": 35,
+    "reportingTime": "6/18/2019 10:22",
+    "deviceState": "S",
+    "signals": 1923,
+    "maxSpeed": 75,
+    "runningTime": "6:14:48",
+    "stoppingTime": "4:45:12",
+    "distanceMoved": "242.501 Km",
+    "startTime": "6/18/2019 0:01",
+    "startlocation": "NH 209, Malavalli, Karnataka 571430, India"
+  },
+  {
+    "vehicleNo": "MH12GB6028",
+    "speed": 12,
+    "reportingTime": "8/3/2020 16:58",
+    "deviceState": "S",
+    "signals": 1675,
+    "maxSpeed": 65,
+    "runningTime": "3:59:43",
+    "stoppingTime": "9:00:17",
+    "distanceMoved": "125.654 Km",
+    "startTime": "8/3/2020 0:01",
+    "startlocation": "Pune - Solapur Rd, Mangrul, Maharashtra 413222, India"
+  },
+  {
+    "vehicleNo": "GJ01RC2224",
+    "speed": 52,
+    "reportingTime": "10/10/2021 9:47",
+    "deviceState": "S",
+    "signals": 1987,
+    "maxSpeed": 90,
+    "runningTime": "5:23:14",
+    "stoppingTime": "6:36:46",
+    "distanceMoved": "346.784 Km",
+    "startTime": "10/10/2021 0:01",
+    "startlocation": "NH48, Kuchera, Rajasthan 341508, India"
+  },
+  {
+    "vehicleNo": "TN22BR2091",
+    "speed": 25,
+    "reportingTime": "2/27/2018 5:13",
+    "deviceState": "S",
+    "signals": 1556,
+    "maxSpeed": 70,
+    "runningTime": "10:35:28",
+    "stoppingTime": "13:24:32",
+    "distanceMoved": "449.122 Km",
+    "startTime": "2/27/2018 0:01",
+    "startlocation": "Grand Southern Trunk Rd, Thirumukkoodal, Tamil Nadu 600058, India"
+  }
+]
